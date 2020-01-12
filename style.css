@@ -1,0 +1,55 @@
+form{
+	text-align: left;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.left{
+	position: relative;
+	left: 0px;
+	padding: 10px;
+}
+
+.divider{
+	width: 10px;
+	height: auto;
+	display: inline-block;
+}
+
+#viewport{
+	margin-top: 175px;
+	width: 50%;
+}
+
+#google-logo{
+
+}
+
+#search-form{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+#search-bar{
+	border-radius: 30px;
+    border: 2px solid #000;
+    padding: 20px; 
+    width: 80%;
+    height: 10px;
+}
+
+#search-button{
+
+}
+
+#button-section{
+	padding: 10px;
+}
